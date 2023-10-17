@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+.videa {
+
+    justify-content: space-evenly !important;
+    align-content: center !important;
+    
+
+
+}
+
+.test{
+
+    text-align: center !important;
+}
+
+.testDva {
+    display: flex !important;
+    text-align: center !important;
+
+}
+
+.story {
+ display: flex;
+ justify-content: center;
+ padding: 100px;
+ border-radius: 25px;
+  border: 2px solid black;
+  padding: 20px;
+
+
+
+}
+
+
